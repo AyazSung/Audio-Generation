@@ -1,3 +1,5 @@
+Ayaz Sunagatullin, Leon Parepko
+
 # Audio-Generation
 
 Our extensive exploration voice generation has led to the implementation of promising approaches to improve the one. Despite challenges in achieving substantial improvements, the deployment of a neural network for voice slicing and an overarching denoising model has shown potential for enhancing the training process and refining the audio output.
